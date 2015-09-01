@@ -22,7 +22,8 @@
  * For Windows, C:\openldap\sysconf\certs\rootcert.pem
  * For both Linux and Windows, the ldap.conf file should contain this line:
  * (Linux)  TLS_CACERT /etc/openldap/cert/rootcert.pem
- *(Windows) TLS_CACERT c:\OpenLDAP\sysconf\certs\rootcert.pem
+ * (Windows) TLS_CACERT c:\OpenLDAP\sysconf\certs\rootcert.pem
+ * If there are errors, add print_r for the output and examine the error
  */
 
 //Configuration items
