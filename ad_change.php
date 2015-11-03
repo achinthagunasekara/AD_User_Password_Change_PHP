@@ -1,8 +1,8 @@
 <?php
 
 /*
- * Archie Gunasekara
- * 01.05.2015
+ * Author: Archie Gunasekara
+ * Date: 01.05.2015
  * Make sure your PHP install has both the ldap and openssl extensions enabled.
  * Windows/Linux Procedure
  * Verify the ldap.conf file settings.
