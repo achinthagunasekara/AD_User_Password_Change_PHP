@@ -1,6 +1,7 @@
-##ReadMe
+#PHP Active Directory User Password Change Script
 
-Archie Gunasekara - 01.05.2015
+Archie Gunasekara
+01.05.2015
 
 1. Make sure your PHP install has both the ldap and openssl extensions enabled.
 2. Windows/Linux Procedure
